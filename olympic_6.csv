@@ -1,0 +1,1488 @@
+source,target,weight
+Basketball,Equestrianism,19
+Basketball,Short Track Speed Skating,1
+Basketball,Judo,13
+Basketball,Canoeing,19
+Basketball,Golf,1
+Basketball,Archery,12
+Basketball,Football,19
+Basketball,Sailing,19
+Basketball,Cycling,19
+Basketball,Biathlon,9
+Basketball,Weightlifting,19
+Basketball,Wrestling,19
+Basketball,Boxing,19
+Basketball,Handball,13
+Basketball,Volleyball,14
+Basketball,Bobsleigh,12
+Basketball,Art Competitions,2
+Basketball,Alpine Skiing,13
+Basketball,Cross Country Skiing,13
+Basketball,Tennis,8
+Basketball,Skeleton,1
+Basketball,Baseball,5
+Basketball,Ice Hockey,13
+Basketball,Athletics,19
+Basketball,Swimming,19
+Basketball,Hockey,19
+Basketball,Luge,8
+Basketball,Beach Volleyball,6
+Basketball,Taekwondo,5
+Basketball,Rhythmic Gymnastics,9
+Basketball,Water Polo,19
+Basketball,Trampolining,5
+Basketball,Softball,4
+Basketball,Figure Skating,13
+Basketball,Table Tennis,8
+Basketball,Shooting,19
+Basketball,Nordic Combined,13
+Basketball,Rugby Sevens,1
+Basketball,Modern Pentathlon,19
+Basketball,Polo,1
+Basketball,Alpinism,1
+Basketball,Triathlon,5
+Basketball,Freestyle Skiing,1
+Basketball,Rowing,19
+Basketball,Aeronautics,1
+Basketball,Ski Jumping,13
+Basketball,Diving,19
+Basketball,Gymnastics,19
+Basketball,Badminton,7
+Basketball,Fencing,19
+Basketball,Synchronized Swimming,9
+Basketball,Speed Skating,13
+Judo,Equestrianism,13
+Judo,Short Track Speed Skating,1
+Judo,Golf,1
+Judo,Canoeing,13
+Judo,Archery,12
+Judo,Football,13
+Judo,Sailing,13
+Judo,Cycling,13
+Judo,Biathlon,7
+Judo,Weightlifting,13
+Judo,Wrestling,13
+Judo,Boxing,13
+Judo,Handball,12
+Judo,Volleyball,13
+Judo,Alpine Skiing,7
+Judo,Bobsleigh,7
+Judo,Tennis,8
+Judo,Cross Country Skiing,7
+Judo,Baseball,5
+Judo,Ice Hockey,7
+Judo,Athletics,13
+Judo,Swimming,13
+Judo,Taekwondo,5
+Judo,Beach Volleyball,6
+Judo,Hockey,13
+Judo,Luge,7
+Judo,Rhythmic Gymnastics,9
+Judo,Water Polo,13
+Judo,Trampolining,5
+Judo,Softball,4
+Judo,Table Tennis,8
+Judo,Figure Skating,7
+Judo,Shooting,13
+Judo,Nordic Combined,7
+Judo,Rugby Sevens,1
+Judo,Modern Pentathlon,13
+Judo,Triathlon,5
+Judo,Freestyle Skiing,1
+Judo,Rowing,13
+Judo,Ski Jumping,7
+Judo,Diving,13
+Judo,Gymnastics,13
+Judo,Badminton,7
+Judo,Fencing,13
+Judo,Synchronized Swimming,9
+Judo,Speed Skating,7
+Football,Jeu De Paume,1
+Football,Equestrianism,24
+Football,Short Track Speed Skating,1
+Football,Roque,1
+Football,Archery,16
+Football,Sailing,25
+Football,Biathlon,9
+Football,Wrestling,26
+Football,Handball,13
+Football,Basque Pelota,1
+Football,Volleyball,14
+Football,Bobsleigh,14
+Football,Art Competitions,6
+Football,Motorboating,1
+Football,Cross Country Skiing,15
+Football,Baseball,5
+Football,Croquet,1
+Football,Racquets,1
+Football,Ice Hockey,16
+Football,Athletics,27
+Football,Swimming,27
+Football,Hockey,22
+Football,Taekwondo,5
+Football,Trampolining,5
+Football,Figure Skating,17
+Football,Table Tennis,8
+Football,Shooting,25
+Football,Rugby Sevens,1
+Football,Modern Pentathlon,23
+Football,Freestyle Skiing,1
+Football,Aeronautics,1
+Football,Tug-Of-War,6
+Football,Gymnastics,27
+Football,Badminton,7
+Football,Fencing,27
+Football,Speed Skating,15
+Football,Golf,3
+Football,Canoeing,19
+Football,Cycling,27
+Football,Weightlifting,24
+Football,Boxing,24
+Football,Alpine Skiing,13
+Football,Military Ski Patrol,1
+Football,Tennis,15
+Football,Skeleton,2
+Football,Lacrosse,2
+Football,Beach Volleyball,6
+Football,Luge,8
+Football,Rhythmic Gymnastics,9
+Football,Water Polo,26
+Football,Softball,4
+Football,Rugby,4
+Football,Nordic Combined,15
+Football,Polo,5
+Football,Alpinism,2
+Football,Triathlon,5
+Football,Rowing,27
+Football,Ski Jumping,15
+Football,Diving,26
+Football,Curling,1
+Football,Cricket,1
+Football,Synchronized Swimming,9
+Tug-Of-War,Jeu De Paume,1
+Tug-Of-War,Equestrianism,3
+Tug-Of-War,Golf,2
+Tug-Of-War,Roque,1
+Tug-Of-War,Archery,4
+Tug-Of-War,Sailing,4
+Tug-Of-War,Cycling,6
+Tug-Of-War,Weightlifting,3
+Tug-Of-War,Wrestling,5
+Tug-Of-War,Boxing,3
+Tug-Of-War,Basque Pelota,1
+Tug-Of-War,Motorboating,1
+Tug-Of-War,Art Competitions,2
+Tug-Of-War,Tennis,6
+Tug-Of-War,Croquet,1
+Tug-Of-War,Lacrosse,2
+Tug-Of-War,Racquets,1
+Tug-Of-War,Ice Hockey,1
+Tug-Of-War,Athletics,6
+Tug-Of-War,Swimming,6
+Tug-Of-War,Hockey,2
+Tug-Of-War,Water Polo,5
+Tug-Of-War,Figure Skating,2
+Tug-Of-War,Rugby,3
+Tug-Of-War,Shooting,5
+Tug-Of-War,Polo,3
+Tug-Of-War,Modern Pentathlon,2
+Tug-Of-War,Rowing,6
+Tug-Of-War,Diving,5
+Tug-Of-War,Cricket,1
+Tug-Of-War,Gymnastics,6
+Tug-Of-War,Fencing,6
+Speed Skating,Equestrianism,16
+Speed Skating,Short Track Speed Skating,7
+Speed Skating,Canoeing,13
+Speed Skating,Archery,6
+Speed Skating,Sailing,16
+Speed Skating,Cycling,16
+Speed Skating,Biathlon,15
+Speed Skating,Weightlifting,16
+Speed Skating,Wrestling,16
+Speed Skating,Boxing,16
+Speed Skating,Handball,7
+Speed Skating,Volleyball,8
+Speed Skating,Bobsleigh,21
+Speed Skating,Art Competitions,5
+Speed Skating,Military Ski Patrol,1
+Speed Skating,Alpine Skiing,19
+Speed Skating,Tennis,3
+Speed Skating,Cross Country Skiing,22
+Speed Skating,Skeleton,6
+Speed Skating,Baseball,1
+Speed Skating,Ice Hockey,22
+Speed Skating,Athletics,16
+Speed Skating,Swimming,16
+Speed Skating,Hockey,15
+Speed Skating,Luge,14
+Speed Skating,Rhythmic Gymnastics,3
+Speed Skating,Water Polo,16
+Speed Skating,Figure Skating,22
+Speed Skating,Rugby,1
+Speed Skating,Shooting,15
+Speed Skating,Table Tennis,2
+Speed Skating,Nordic Combined,22
+Speed Skating,Modern Pentathlon,16
+Speed Skating,Polo,2
+Speed Skating,Alpinism,3
+Speed Skating,Freestyle Skiing,7
+Speed Skating,Rowing,16
+Speed Skating,Aeronautics,1
+Speed Skating,Ski Jumping,22
+Speed Skating,Diving,16
+Speed Skating,Curling,6
+Speed Skating,Gymnastics,16
+Speed Skating,Badminton,1
+Speed Skating,Snowboarding,5
+Speed Skating,Fencing,16
+Speed Skating,Synchronized Swimming,3
+Cross Country Skiing,Equestrianism,16
+Cross Country Skiing,Short Track Speed Skating,7
+Cross Country Skiing,Canoeing,13
+Cross Country Skiing,Archery,6
+Cross Country Skiing,Sailing,16
+Cross Country Skiing,Cycling,16
+Cross Country Skiing,Biathlon,15
+Cross Country Skiing,Weightlifting,16
+Cross Country Skiing,Wrestling,16
+Cross Country Skiing,Boxing,16
+Cross Country Skiing,Handball,7
+Cross Country Skiing,Volleyball,8
+Cross Country Skiing,Bobsleigh,21
+Cross Country Skiing,Art Competitions,5
+Cross Country Skiing,Military Ski Patrol,1
+Cross Country Skiing,Alpine Skiing,19
+Cross Country Skiing,Tennis,3
+Cross Country Skiing,Skeleton,6
+Cross Country Skiing,Baseball,1
+Cross Country Skiing,Ice Hockey,22
+Cross Country Skiing,Athletics,16
+Cross Country Skiing,Swimming,16
+Cross Country Skiing,Hockey,15
+Cross Country Skiing,Luge,14
+Cross Country Skiing,Rhythmic Gymnastics,3
+Cross Country Skiing,Water Polo,16
+Cross Country Skiing,Figure Skating,22
+Cross Country Skiing,Rugby,1
+Cross Country Skiing,Shooting,15
+Cross Country Skiing,Table Tennis,2
+Cross Country Skiing,Nordic Combined,22
+Cross Country Skiing,Modern Pentathlon,16
+Cross Country Skiing,Polo,2
+Cross Country Skiing,Alpinism,3
+Cross Country Skiing,Freestyle Skiing,7
+Cross Country Skiing,Rowing,16
+Cross Country Skiing,Aeronautics,1
+Cross Country Skiing,Ski Jumping,22
+Cross Country Skiing,Diving,16
+Cross Country Skiing,Curling,6
+Cross Country Skiing,Gymnastics,16
+Cross Country Skiing,Badminton,1
+Cross Country Skiing,Snowboarding,5
+Cross Country Skiing,Fencing,16
+Cross Country Skiing,Synchronized Swimming,3
+Athletics,Jeu De Paume,1
+Athletics,Equestrianism,25
+Athletics,Short Track Speed Skating,1
+Athletics,Roque,1
+Athletics,Archery,16
+Athletics,Sailing,26
+Athletics,Biathlon,9
+Athletics,Wrestling,28
+Athletics,Handball,13
+Athletics,Basque Pelota,1
+Athletics,Volleyball,14
+Athletics,Bobsleigh,15
+Athletics,Art Competitions,7
+Athletics,Motorboating,1
+Athletics,Baseball,5
+Athletics,Croquet,1
+Athletics,Racquets,1
+Athletics,Ice Hockey,17
+Athletics,Swimming,29
+Athletics,Hockey,23
+Athletics,Taekwondo,5
+Athletics,Trampolining,5
+Athletics,Figure Skating,18
+Athletics,Table Tennis,8
+Athletics,Shooting,27
+Athletics,Rugby Sevens,1
+Athletics,Modern Pentathlon,24
+Athletics,Freestyle Skiing,1
+Athletics,Aeronautics,1
+Athletics,Gymnastics,29
+Athletics,Badminton,7
+Athletics,Fencing,29
+Athletics,Golf,3
+Athletics,Canoeing,19
+Athletics,Cycling,29
+Athletics,Weightlifting,26
+Athletics,Boxing,25
+Athletics,Alpine Skiing,13
+Athletics,Military Ski Patrol,1
+Athletics,Tennis,16
+Athletics,Skeleton,2
+Athletics,Lacrosse,2
+Athletics,Beach Volleyball,6
+Athletics,Luge,8
+Athletics,Rhythmic Gymnastics,9
+Athletics,Water Polo,27
+Athletics,Softball,4
+Athletics,Rugby,4
+Athletics,Nordic Combined,16
+Athletics,Polo,5
+Athletics,Alpinism,3
+Athletics,Triathlon,5
+Athletics,Rowing,28
+Athletics,Ski Jumping,16
+Athletics,Diving,27
+Athletics,Curling,1
+Athletics,Cricket,1
+Athletics,Synchronized Swimming,9
+Ice Hockey,Equestrianism,17
+Ice Hockey,Short Track Speed Skating,7
+Ice Hockey,Canoeing,13
+Ice Hockey,Archery,7
+Ice Hockey,Sailing,17
+Ice Hockey,Cycling,17
+Ice Hockey,Biathlon,15
+Ice Hockey,Weightlifting,17
+Ice Hockey,Wrestling,17
+Ice Hockey,Boxing,17
+Ice Hockey,Handball,7
+Ice Hockey,Volleyball,8
+Ice Hockey,Bobsleigh,21
+Ice Hockey,Art Competitions,6
+Ice Hockey,Military Ski Patrol,1
+Ice Hockey,Alpine Skiing,19
+Ice Hockey,Tennis,4
+Ice Hockey,Skeleton,6
+Ice Hockey,Baseball,1
+Ice Hockey,Swimming,17
+Ice Hockey,Hockey,16
+Ice Hockey,Luge,14
+Ice Hockey,Rhythmic Gymnastics,3
+Ice Hockey,Water Polo,17
+Ice Hockey,Figure Skating,23
+Ice Hockey,Rugby,2
+Ice Hockey,Shooting,16
+Ice Hockey,Table Tennis,2
+Ice Hockey,Nordic Combined,22
+Ice Hockey,Polo,3
+Ice Hockey,Modern Pentathlon,17
+Ice Hockey,Alpinism,3
+Ice Hockey,Freestyle Skiing,7
+Ice Hockey,Rowing,17
+Ice Hockey,Aeronautics,1
+Ice Hockey,Ski Jumping,22
+Ice Hockey,Diving,17
+Ice Hockey,Curling,6
+Ice Hockey,Gymnastics,17
+Ice Hockey,Badminton,1
+Ice Hockey,Snowboarding,5
+Ice Hockey,Fencing,17
+Ice Hockey,Synchronized Swimming,3
+Swimming,Jeu De Paume,1
+Swimming,Equestrianism,25
+Swimming,Short Track Speed Skating,1
+Swimming,Roque,1
+Swimming,Archery,16
+Swimming,Sailing,26
+Swimming,Biathlon,9
+Swimming,Wrestling,28
+Swimming,Handball,13
+Swimming,Basque Pelota,1
+Swimming,Volleyball,14
+Swimming,Bobsleigh,15
+Swimming,Art Competitions,7
+Swimming,Motorboating,1
+Swimming,Baseball,5
+Swimming,Croquet,1
+Swimming,Racquets,1
+Swimming,Hockey,23
+Swimming,Taekwondo,5
+Swimming,Trampolining,5
+Swimming,Figure Skating,18
+Swimming,Table Tennis,8
+Swimming,Shooting,27
+Swimming,Rugby Sevens,1
+Swimming,Modern Pentathlon,24
+Swimming,Freestyle Skiing,1
+Swimming,Aeronautics,1
+Swimming,Gymnastics,29
+Swimming,Badminton,7
+Swimming,Fencing,29
+Swimming,Golf,3
+Swimming,Canoeing,19
+Swimming,Cycling,29
+Swimming,Weightlifting,26
+Swimming,Boxing,25
+Swimming,Alpine Skiing,13
+Swimming,Military Ski Patrol,1
+Swimming,Tennis,16
+Swimming,Skeleton,2
+Swimming,Lacrosse,2
+Swimming,Beach Volleyball,6
+Swimming,Luge,8
+Swimming,Rhythmic Gymnastics,9
+Swimming,Water Polo,27
+Swimming,Softball,4
+Swimming,Rugby,4
+Swimming,Nordic Combined,16
+Swimming,Polo,5
+Swimming,Alpinism,3
+Swimming,Triathlon,5
+Swimming,Rowing,28
+Swimming,Ski Jumping,16
+Swimming,Diving,27
+Swimming,Curling,1
+Swimming,Cricket,1
+Swimming,Synchronized Swimming,9
+Badminton,Equestrianism,7
+Badminton,Short Track Speed Skating,1
+Badminton,Golf,1
+Badminton,Canoeing,7
+Badminton,Archery,7
+Badminton,Sailing,7
+Badminton,Cycling,7
+Badminton,Biathlon,1
+Badminton,Weightlifting,7
+Badminton,Wrestling,7
+Badminton,Boxing,7
+Badminton,Handball,7
+Badminton,Volleyball,7
+Badminton,Alpine Skiing,1
+Badminton,Bobsleigh,1
+Badminton,Tennis,7
+Badminton,Baseball,5
+Badminton,Taekwondo,5
+Badminton,Beach Volleyball,6
+Badminton,Hockey,7
+Badminton,Luge,1
+Badminton,Rhythmic Gymnastics,7
+Badminton,Water Polo,7
+Badminton,Trampolining,5
+Badminton,Softball,4
+Badminton,Table Tennis,7
+Badminton,Figure Skating,1
+Badminton,Shooting,7
+Badminton,Nordic Combined,1
+Badminton,Rugby Sevens,1
+Badminton,Modern Pentathlon,7
+Badminton,Triathlon,5
+Badminton,Freestyle Skiing,1
+Badminton,Rowing,7
+Badminton,Ski Jumping,1
+Badminton,Diving,7
+Badminton,Gymnastics,7
+Badminton,Fencing,7
+Badminton,Synchronized Swimming,7
+Sailing,Jeu De Paume,1
+Sailing,Equestrianism,25
+Sailing,Short Track Speed Skating,1
+Sailing,Archery,15
+Sailing,Biathlon,9
+Sailing,Wrestling,25
+Sailing,Handball,13
+Sailing,Basque Pelota,1
+Sailing,Volleyball,14
+Sailing,Bobsleigh,15
+Sailing,Art Competitions,7
+Sailing,Motorboating,1
+Sailing,Baseball,5
+Sailing,Croquet,1
+Sailing,Racquets,1
+Sailing,Hockey,23
+Sailing,Taekwondo,5
+Sailing,Trampolining,5
+Sailing,Figure Skating,18
+Sailing,Table Tennis,8
+Sailing,Shooting,25
+Sailing,Rugby Sevens,1
+Sailing,Modern Pentathlon,24
+Sailing,Freestyle Skiing,1
+Sailing,Aeronautics,1
+Sailing,Gymnastics,26
+Sailing,Fencing,26
+Sailing,Golf,2
+Sailing,Canoeing,19
+Sailing,Cycling,26
+Sailing,Weightlifting,23
+Sailing,Boxing,24
+Sailing,Alpine Skiing,13
+Sailing,Military Ski Patrol,1
+Sailing,Tennis,13
+Sailing,Skeleton,2
+Sailing,Lacrosse,1
+Sailing,Beach Volleyball,6
+Sailing,Luge,8
+Sailing,Rhythmic Gymnastics,9
+Sailing,Water Polo,26
+Sailing,Softball,4
+Sailing,Rugby,4
+Sailing,Nordic Combined,16
+Sailing,Polo,5
+Sailing,Alpinism,3
+Sailing,Triathlon,5
+Sailing,Rowing,26
+Sailing,Ski Jumping,16
+Sailing,Diving,25
+Sailing,Curling,1
+Sailing,Cricket,1
+Sailing,Synchronized Swimming,9
+Biathlon,Equestrianism,9
+Biathlon,Short Track Speed Skating,7
+Biathlon,Canoeing,9
+Biathlon,Archery,6
+Biathlon,Cycling,9
+Biathlon,Weightlifting,9
+Biathlon,Wrestling,9
+Biathlon,Boxing,9
+Biathlon,Handball,6
+Biathlon,Volleyball,8
+Biathlon,Alpine Skiing,15
+Biathlon,Bobsleigh,14
+Biathlon,Tennis,2
+Biathlon,Baseball,1
+Biathlon,Skeleton,4
+Biathlon,Hockey,9
+Biathlon,Luge,14
+Biathlon,Rhythmic Gymnastics,3
+Biathlon,Water Polo,9
+Biathlon,Figure Skating,15
+Biathlon,Table Tennis,2
+Biathlon,Shooting,9
+Biathlon,Nordic Combined,15
+Biathlon,Modern Pentathlon,9
+Biathlon,Freestyle Skiing,7
+Biathlon,Rowing,9
+Biathlon,Ski Jumping,15
+Biathlon,Diving,9
+Biathlon,Curling,5
+Biathlon,Gymnastics,9
+Biathlon,Snowboarding,5
+Biathlon,Fencing,9
+Biathlon,Synchronized Swimming,3
+Gymnastics,Jeu De Paume,1
+Gymnastics,Equestrianism,25
+Gymnastics,Short Track Speed Skating,1
+Gymnastics,Roque,1
+Gymnastics,Archery,16
+Gymnastics,Wrestling,28
+Gymnastics,Handball,13
+Gymnastics,Basque Pelota,1
+Gymnastics,Volleyball,14
+Gymnastics,Bobsleigh,15
+Gymnastics,Art Competitions,7
+Gymnastics,Motorboating,1
+Gymnastics,Baseball,5
+Gymnastics,Croquet,1
+Gymnastics,Racquets,1
+Gymnastics,Hockey,23
+Gymnastics,Taekwondo,5
+Gymnastics,Trampolining,5
+Gymnastics,Figure Skating,18
+Gymnastics,Table Tennis,8
+Gymnastics,Shooting,27
+Gymnastics,Rugby Sevens,1
+Gymnastics,Modern Pentathlon,24
+Gymnastics,Freestyle Skiing,1
+Gymnastics,Aeronautics,1
+Gymnastics,Fencing,29
+Gymnastics,Golf,3
+Gymnastics,Canoeing,19
+Gymnastics,Cycling,29
+Gymnastics,Weightlifting,26
+Gymnastics,Boxing,25
+Gymnastics,Alpine Skiing,13
+Gymnastics,Military Ski Patrol,1
+Gymnastics,Tennis,16
+Gymnastics,Skeleton,2
+Gymnastics,Lacrosse,2
+Gymnastics,Beach Volleyball,6
+Gymnastics,Luge,8
+Gymnastics,Rhythmic Gymnastics,9
+Gymnastics,Water Polo,27
+Gymnastics,Softball,4
+Gymnastics,Rugby,4
+Gymnastics,Nordic Combined,16
+Gymnastics,Polo,5
+Gymnastics,Alpinism,3
+Gymnastics,Triathlon,5
+Gymnastics,Rowing,28
+Gymnastics,Ski Jumping,16
+Gymnastics,Diving,27
+Gymnastics,Curling,1
+Gymnastics,Cricket,1
+Gymnastics,Synchronized Swimming,9
+Art Competitions,Equestrianism,7
+Art Competitions,Canoeing,2
+Art Competitions,Archery,1
+Art Competitions,Cycling,7
+Art Competitions,Weightlifting,6
+Art Competitions,Wrestling,7
+Art Competitions,Boxing,6
+Art Competitions,Handball,1
+Art Competitions,Bobsleigh,5
+Art Competitions,Military Ski Patrol,1
+Art Competitions,Alpine Skiing,2
+Art Competitions,Tennis,3
+Art Competitions,Skeleton,2
+Art Competitions,Hockey,5
+Art Competitions,Water Polo,7
+Art Competitions,Figure Skating,6
+Art Competitions,Rugby,2
+Art Competitions,Shooting,6
+Art Competitions,Nordic Combined,5
+Art Competitions,Polo,3
+Art Competitions,Modern Pentathlon,7
+Art Competitions,Alpinism,3
+Art Competitions,Rowing,7
+Art Competitions,Aeronautics,1
+Art Competitions,Ski Jumping,5
+Art Competitions,Diving,7
+Art Competitions,Curling,1
+Art Competitions,Fencing,7
+Alpine Skiing,Equestrianism,13
+Alpine Skiing,Short Track Speed Skating,7
+Alpine Skiing,Canoeing,13
+Alpine Skiing,Archery,6
+Alpine Skiing,Cycling,13
+Alpine Skiing,Weightlifting,13
+Alpine Skiing,Wrestling,13
+Alpine Skiing,Boxing,13
+Alpine Skiing,Handball,7
+Alpine Skiing,Volleyball,8
+Alpine Skiing,Bobsleigh,18
+Alpine Skiing,Tennis,2
+Alpine Skiing,Skeleton,5
+Alpine Skiing,Baseball,1
+Alpine Skiing,Hockey,13
+Alpine Skiing,Luge,14
+Alpine Skiing,Rhythmic Gymnastics,3
+Alpine Skiing,Water Polo,13
+Alpine Skiing,Figure Skating,19
+Alpine Skiing,Table Tennis,2
+Alpine Skiing,Shooting,13
+Alpine Skiing,Nordic Combined,19
+Alpine Skiing,Modern Pentathlon,13
+Alpine Skiing,Polo,1
+Alpine Skiing,Alpinism,1
+Alpine Skiing,Freestyle Skiing,7
+Alpine Skiing,Rowing,13
+Alpine Skiing,Aeronautics,1
+Alpine Skiing,Ski Jumping,19
+Alpine Skiing,Diving,13
+Alpine Skiing,Curling,5
+Alpine Skiing,Snowboarding,5
+Alpine Skiing,Fencing,13
+Alpine Skiing,Synchronized Swimming,3
+Handball,Equestrianism,13
+Handball,Short Track Speed Skating,1
+Handball,Golf,1
+Handball,Canoeing,13
+Handball,Archery,12
+Handball,Cycling,13
+Handball,Weightlifting,13
+Handball,Wrestling,13
+Handball,Boxing,13
+Handball,Volleyball,12
+Handball,Bobsleigh,7
+Handball,Tennis,8
+Handball,Baseball,5
+Handball,Taekwondo,5
+Handball,Beach Volleyball,6
+Handball,Hockey,13
+Handball,Luge,6
+Handball,Rhythmic Gymnastics,9
+Handball,Water Polo,13
+Handball,Trampolining,5
+Handball,Softball,4
+Handball,Table Tennis,8
+Handball,Figure Skating,7
+Handball,Shooting,13
+Handball,Nordic Combined,7
+Handball,Rugby Sevens,1
+Handball,Modern Pentathlon,13
+Handball,Polo,1
+Handball,Alpinism,1
+Handball,Triathlon,5
+Handball,Freestyle Skiing,1
+Handball,Rowing,13
+Handball,Aeronautics,1
+Handball,Ski Jumping,7
+Handball,Diving,13
+Handball,Fencing,13
+Handball,Synchronized Swimming,9
+Weightlifting,Equestrianism,23
+Weightlifting,Short Track Speed Skating,1
+Weightlifting,Canoeing,19
+Weightlifting,Golf,2
+Weightlifting,Roque,1
+Weightlifting,Archery,14
+Weightlifting,Cycling,26
+Weightlifting,Wrestling,26
+Weightlifting,Boxing,24
+Weightlifting,Volleyball,14
+Weightlifting,Bobsleigh,15
+Weightlifting,Military Ski Patrol,1
+Weightlifting,Tennis,13
+Weightlifting,Skeleton,2
+Weightlifting,Baseball,5
+Weightlifting,Lacrosse,1
+Weightlifting,Hockey,22
+Weightlifting,Luge,8
+Weightlifting,Beach Volleyball,6
+Weightlifting,Taekwondo,5
+Weightlifting,Rhythmic Gymnastics,9
+Weightlifting,Water Polo,24
+Weightlifting,Trampolining,5
+Weightlifting,Softball,4
+Weightlifting,Figure Skating,17
+Weightlifting,Rugby,2
+Weightlifting,Shooting,24
+Weightlifting,Table Tennis,8
+Weightlifting,Nordic Combined,16
+Weightlifting,Rugby Sevens,1
+Weightlifting,Polo,3
+Weightlifting,Modern Pentathlon,23
+Weightlifting,Alpinism,3
+Weightlifting,Triathlon,5
+Weightlifting,Freestyle Skiing,1
+Weightlifting,Rowing,25
+Weightlifting,Aeronautics,1
+Weightlifting,Ski Jumping,16
+Weightlifting,Diving,25
+Weightlifting,Curling,1
+Weightlifting,Fencing,26
+Weightlifting,Synchronized Swimming,9
+Wrestling,Jeu De Paume,1
+Wrestling,Equestrianism,24
+Wrestling,Short Track Speed Skating,1
+Wrestling,Canoeing,19
+Wrestling,Golf,2
+Wrestling,Roque,1
+Wrestling,Archery,15
+Wrestling,Cycling,28
+Wrestling,Boxing,25
+Wrestling,Volleyball,14
+Wrestling,Bobsleigh,15
+Wrestling,Military Ski Patrol,1
+Wrestling,Motorboating,1
+Wrestling,Tennis,15
+Wrestling,Skeleton,2
+Wrestling,Baseball,5
+Wrestling,Lacrosse,2
+Wrestling,Racquets,1
+Wrestling,Hockey,23
+Wrestling,Luge,8
+Wrestling,Beach Volleyball,6
+Wrestling,Taekwondo,5
+Wrestling,Rhythmic Gymnastics,9
+Wrestling,Water Polo,26
+Wrestling,Trampolining,5
+Wrestling,Softball,4
+Wrestling,Figure Skating,18
+Wrestling,Rugby,3
+Wrestling,Shooting,26
+Wrestling,Table Tennis,8
+Wrestling,Nordic Combined,16
+Wrestling,Rugby Sevens,1
+Wrestling,Polo,4
+Wrestling,Modern Pentathlon,24
+Wrestling,Alpinism,3
+Wrestling,Triathlon,5
+Wrestling,Freestyle Skiing,1
+Wrestling,Rowing,27
+Wrestling,Aeronautics,1
+Wrestling,Ski Jumping,16
+Wrestling,Diving,27
+Wrestling,Curling,1
+Wrestling,Fencing,28
+Wrestling,Synchronized Swimming,9
+Luge,Equestrianism,8
+Luge,Short Track Speed Skating,7
+Luge,Canoeing,8
+Luge,Archery,6
+Luge,Cycling,8
+Luge,Boxing,8
+Luge,Volleyball,8
+Luge,Bobsleigh,14
+Luge,Tennis,2
+Luge,Baseball,1
+Luge,Skeleton,4
+Luge,Hockey,8
+Luge,Rhythmic Gymnastics,3
+Luge,Water Polo,8
+Luge,Figure Skating,14
+Luge,Table Tennis,2
+Luge,Shooting,8
+Luge,Nordic Combined,14
+Luge,Modern Pentathlon,8
+Luge,Freestyle Skiing,7
+Luge,Rowing,8
+Luge,Ski Jumping,14
+Luge,Diving,8
+Luge,Curling,5
+Luge,Snowboarding,5
+Luge,Fencing,8
+Luge,Synchronized Swimming,3
+Water Polo,Jeu De Paume,1
+Water Polo,Equestrianism,25
+Water Polo,Short Track Speed Skating,1
+Water Polo,Roque,1
+Water Polo,Archery,16
+Water Polo,Basque Pelota,1
+Water Polo,Volleyball,14
+Water Polo,Bobsleigh,15
+Water Polo,Motorboating,1
+Water Polo,Baseball,5
+Water Polo,Croquet,1
+Water Polo,Racquets,1
+Water Polo,Hockey,23
+Water Polo,Taekwondo,5
+Water Polo,Trampolining,5
+Water Polo,Figure Skating,18
+Water Polo,Table Tennis,8
+Water Polo,Shooting,25
+Water Polo,Rugby Sevens,1
+Water Polo,Modern Pentathlon,24
+Water Polo,Freestyle Skiing,1
+Water Polo,Aeronautics,1
+Water Polo,Fencing,27
+Water Polo,Golf,3
+Water Polo,Canoeing,19
+Water Polo,Cycling,27
+Water Polo,Boxing,25
+Water Polo,Military Ski Patrol,1
+Water Polo,Tennis,14
+Water Polo,Skeleton,2
+Water Polo,Lacrosse,2
+Water Polo,Beach Volleyball,6
+Water Polo,Rhythmic Gymnastics,9
+Water Polo,Softball,4
+Water Polo,Rugby,4
+Water Polo,Nordic Combined,16
+Water Polo,Polo,5
+Water Polo,Alpinism,3
+Water Polo,Triathlon,5
+Water Polo,Rowing,27
+Water Polo,Ski Jumping,16
+Water Polo,Diving,26
+Water Polo,Curling,1
+Water Polo,Cricket,1
+Water Polo,Synchronized Swimming,9
+Hockey,Jeu De Paume,1
+Hockey,Equestrianism,22
+Hockey,Short Track Speed Skating,1
+Hockey,Canoeing,19
+Hockey,Golf,1
+Hockey,Archery,14
+Hockey,Cycling,23
+Hockey,Boxing,23
+Hockey,Volleyball,14
+Hockey,Bobsleigh,14
+Hockey,Motorboating,1
+Hockey,Tennis,10
+Hockey,Skeleton,2
+Hockey,Baseball,5
+Hockey,Lacrosse,1
+Hockey,Racquets,1
+Hockey,Beach Volleyball,6
+Hockey,Taekwondo,5
+Hockey,Rhythmic Gymnastics,9
+Hockey,Trampolining,5
+Hockey,Softball,4
+Hockey,Figure Skating,17
+Hockey,Rugby,2
+Hockey,Shooting,22
+Hockey,Table Tennis,8
+Hockey,Nordic Combined,15
+Hockey,Rugby Sevens,1
+Hockey,Polo,3
+Hockey,Modern Pentathlon,22
+Hockey,Alpinism,2
+Hockey,Triathlon,5
+Hockey,Freestyle Skiing,1
+Hockey,Rowing,23
+Hockey,Aeronautics,1
+Hockey,Ski Jumping,15
+Hockey,Diving,23
+Hockey,Fencing,23
+Hockey,Synchronized Swimming,9
+Rowing,Jeu De Paume,1
+Rowing,Equestrianism,25
+Rowing,Short Track Speed Skating,1
+Rowing,Roque,1
+Rowing,Archery,16
+Rowing,Basque Pelota,1
+Rowing,Volleyball,14
+Rowing,Bobsleigh,15
+Rowing,Motorboating,1
+Rowing,Baseball,5
+Rowing,Croquet,1
+Rowing,Racquets,1
+Rowing,Taekwondo,5
+Rowing,Trampolining,5
+Rowing,Figure Skating,18
+Rowing,Table Tennis,8
+Rowing,Shooting,26
+Rowing,Rugby Sevens,1
+Rowing,Modern Pentathlon,24
+Rowing,Freestyle Skiing,1
+Rowing,Aeronautics,1
+Rowing,Fencing,28
+Rowing,Golf,3
+Rowing,Canoeing,19
+Rowing,Cycling,28
+Rowing,Boxing,25
+Rowing,Military Ski Patrol,1
+Rowing,Tennis,15
+Rowing,Skeleton,2
+Rowing,Lacrosse,2
+Rowing,Beach Volleyball,6
+Rowing,Rhythmic Gymnastics,9
+Rowing,Softball,4
+Rowing,Rugby,4
+Rowing,Nordic Combined,16
+Rowing,Polo,5
+Rowing,Alpinism,3
+Rowing,Triathlon,5
+Rowing,Ski Jumping,16
+Rowing,Diving,27
+Rowing,Curling,1
+Rowing,Cricket,1
+Rowing,Synchronized Swimming,9
+Bobsleigh,Equestrianism,15
+Bobsleigh,Short Track Speed Skating,7
+Bobsleigh,Canoeing,12
+Bobsleigh,Archery,6
+Bobsleigh,Cycling,15
+Bobsleigh,Boxing,15
+Bobsleigh,Volleyball,8
+Bobsleigh,Military Ski Patrol,1
+Bobsleigh,Tennis,3
+Bobsleigh,Skeleton,6
+Bobsleigh,Baseball,1
+Bobsleigh,Rhythmic Gymnastics,3
+Bobsleigh,Figure Skating,21
+Bobsleigh,Rugby,1
+Bobsleigh,Shooting,14
+Bobsleigh,Table Tennis,2
+Bobsleigh,Nordic Combined,21
+Bobsleigh,Modern Pentathlon,15
+Bobsleigh,Polo,2
+Bobsleigh,Alpinism,3
+Bobsleigh,Freestyle Skiing,7
+Bobsleigh,Aeronautics,1
+Bobsleigh,Ski Jumping,21
+Bobsleigh,Diving,15
+Bobsleigh,Curling,6
+Bobsleigh,Snowboarding,5
+Bobsleigh,Fencing,15
+Bobsleigh,Synchronized Swimming,3
+Fencing,Jeu De Paume,1
+Fencing,Equestrianism,25
+Fencing,Short Track Speed Skating,1
+Fencing,Roque,1
+Fencing,Archery,16
+Fencing,Basque Pelota,1
+Fencing,Volleyball,14
+Fencing,Motorboating,1
+Fencing,Baseball,5
+Fencing,Croquet,1
+Fencing,Racquets,1
+Fencing,Taekwondo,5
+Fencing,Trampolining,5
+Fencing,Figure Skating,18
+Fencing,Table Tennis,8
+Fencing,Shooting,27
+Fencing,Rugby Sevens,1
+Fencing,Modern Pentathlon,24
+Fencing,Freestyle Skiing,1
+Fencing,Aeronautics,1
+Fencing,Golf,3
+Fencing,Canoeing,19
+Fencing,Cycling,29
+Fencing,Boxing,25
+Fencing,Military Ski Patrol,1
+Fencing,Tennis,16
+Fencing,Skeleton,2
+Fencing,Lacrosse,2
+Fencing,Beach Volleyball,6
+Fencing,Rhythmic Gymnastics,9
+Fencing,Softball,4
+Fencing,Rugby,4
+Fencing,Nordic Combined,16
+Fencing,Polo,5
+Fencing,Alpinism,3
+Fencing,Triathlon,5
+Fencing,Ski Jumping,16
+Fencing,Diving,27
+Fencing,Curling,1
+Fencing,Cricket,1
+Fencing,Synchronized Swimming,9
+Equestrianism,Short Track Speed Skating,1
+Equestrianism,Canoeing,19
+Equestrianism,Golf,2
+Equestrianism,Archery,14
+Equestrianism,Cycling,25
+Equestrianism,Boxing,23
+Equestrianism,Basque Pelota,1
+Equestrianism,Volleyball,14
+Equestrianism,Military Ski Patrol,1
+Equestrianism,Tennis,12
+Equestrianism,Skeleton,2
+Equestrianism,Baseball,5
+Equestrianism,Croquet,1
+Equestrianism,Beach Volleyball,6
+Equestrianism,Taekwondo,5
+Equestrianism,Rhythmic Gymnastics,9
+Equestrianism,Trampolining,5
+Equestrianism,Softball,4
+Equestrianism,Figure Skating,17
+Equestrianism,Rugby,3
+Equestrianism,Shooting,24
+Equestrianism,Table Tennis,8
+Equestrianism,Nordic Combined,16
+Equestrianism,Rugby Sevens,1
+Equestrianism,Polo,4
+Equestrianism,Modern Pentathlon,24
+Equestrianism,Alpinism,3
+Equestrianism,Triathlon,5
+Equestrianism,Freestyle Skiing,1
+Equestrianism,Aeronautics,1
+Equestrianism,Ski Jumping,16
+Equestrianism,Diving,24
+Equestrianism,Curling,1
+Equestrianism,Cricket,1
+Equestrianism,Synchronized Swimming,9
+Shooting,Jeu De Paume,1
+Shooting,Short Track Speed Skating,1
+Shooting,Archery,15
+Shooting,Basque Pelota,1
+Shooting,Volleyball,14
+Shooting,Motorboating,1
+Shooting,Baseball,5
+Shooting,Croquet,1
+Shooting,Racquets,1
+Shooting,Taekwondo,5
+Shooting,Trampolining,5
+Shooting,Figure Skating,17
+Shooting,Table Tennis,8
+Shooting,Rugby Sevens,1
+Shooting,Modern Pentathlon,23
+Shooting,Freestyle Skiing,1
+Shooting,Aeronautics,1
+Shooting,Golf,2
+Shooting,Canoeing,19
+Shooting,Cycling,27
+Shooting,Boxing,23
+Shooting,Military Ski Patrol,1
+Shooting,Tennis,15
+Shooting,Skeleton,1
+Shooting,Lacrosse,1
+Shooting,Beach Volleyball,6
+Shooting,Rhythmic Gymnastics,9
+Shooting,Softball,4
+Shooting,Rugby,4
+Shooting,Nordic Combined,15
+Shooting,Polo,5
+Shooting,Alpinism,3
+Shooting,Triathlon,5
+Shooting,Ski Jumping,15
+Shooting,Diving,25
+Shooting,Curling,1
+Shooting,Cricket,1
+Shooting,Synchronized Swimming,9
+Boxing,Jeu De Paume,1
+Boxing,Short Track Speed Skating,1
+Boxing,Canoeing,19
+Boxing,Golf,2
+Boxing,Roque,1
+Boxing,Archery,15
+Boxing,Cycling,25
+Boxing,Volleyball,14
+Boxing,Military Ski Patrol,1
+Boxing,Motorboating,1
+Boxing,Tennis,12
+Boxing,Skeleton,2
+Boxing,Baseball,5
+Boxing,Lacrosse,2
+Boxing,Racquets,1
+Boxing,Beach Volleyball,6
+Boxing,Taekwondo,5
+Boxing,Rhythmic Gymnastics,9
+Boxing,Trampolining,5
+Boxing,Softball,4
+Boxing,Figure Skating,18
+Boxing,Rugby,3
+Boxing,Table Tennis,8
+Boxing,Nordic Combined,16
+Boxing,Rugby Sevens,1
+Boxing,Polo,4
+Boxing,Modern Pentathlon,23
+Boxing,Alpinism,3
+Boxing,Triathlon,5
+Boxing,Freestyle Skiing,1
+Boxing,Aeronautics,1
+Boxing,Ski Jumping,16
+Boxing,Diving,25
+Boxing,Curling,1
+Boxing,Synchronized Swimming,9
+Taekwondo,Golf,1
+Taekwondo,Canoeing,5
+Taekwondo,Archery,5
+Taekwondo,Cycling,5
+Taekwondo,Volleyball,5
+Taekwondo,Tennis,5
+Taekwondo,Baseball,3
+Taekwondo,Beach Volleyball,5
+Taekwondo,Rhythmic Gymnastics,5
+Taekwondo,Trampolining,5
+Taekwondo,Softball,3
+Taekwondo,Table Tennis,5
+Taekwondo,Rugby Sevens,1
+Taekwondo,Modern Pentathlon,5
+Taekwondo,Triathlon,5
+Taekwondo,Diving,5
+Taekwondo,Synchronized Swimming,5
+Cycling,Jeu De Paume,1
+Cycling,Short Track Speed Skating,1
+Cycling,Roque,1
+Cycling,Archery,16
+Cycling,Basque Pelota,1
+Cycling,Volleyball,14
+Cycling,Motorboating,1
+Cycling,Baseball,5
+Cycling,Croquet,1
+Cycling,Racquets,1
+Cycling,Trampolining,5
+Cycling,Figure Skating,18
+Cycling,Table Tennis,8
+Cycling,Rugby Sevens,1
+Cycling,Modern Pentathlon,24
+Cycling,Freestyle Skiing,1
+Cycling,Aeronautics,1
+Cycling,Golf,3
+Cycling,Canoeing,19
+Cycling,Military Ski Patrol,1
+Cycling,Tennis,16
+Cycling,Skeleton,2
+Cycling,Lacrosse,2
+Cycling,Beach Volleyball,6
+Cycling,Rhythmic Gymnastics,9
+Cycling,Softball,4
+Cycling,Rugby,4
+Cycling,Nordic Combined,16
+Cycling,Polo,5
+Cycling,Alpinism,3
+Cycling,Triathlon,5
+Cycling,Ski Jumping,16
+Cycling,Diving,27
+Cycling,Curling,1
+Cycling,Cricket,1
+Cycling,Synchronized Swimming,9
+Diving,Jeu De Paume,1
+Diving,Short Track Speed Skating,1
+Diving,Canoeing,19
+Diving,Golf,2
+Diving,Roque,1
+Diving,Archery,15
+Diving,Volleyball,14
+Diving,Military Ski Patrol,1
+Diving,Motorboating,1
+Diving,Tennis,14
+Diving,Skeleton,2
+Diving,Baseball,5
+Diving,Lacrosse,2
+Diving,Racquets,1
+Diving,Beach Volleyball,6
+Diving,Rhythmic Gymnastics,9
+Diving,Trampolining,5
+Diving,Softball,4
+Diving,Figure Skating,18
+Diving,Rugby,3
+Diving,Table Tennis,8
+Diving,Nordic Combined,16
+Diving,Rugby Sevens,1
+Diving,Polo,4
+Diving,Modern Pentathlon,24
+Diving,Alpinism,3
+Diving,Triathlon,5
+Diving,Freestyle Skiing,1
+Diving,Aeronautics,1
+Diving,Ski Jumping,16
+Diving,Curling,1
+Diving,Synchronized Swimming,9
+Canoeing,Short Track Speed Skating,1
+Canoeing,Golf,1
+Canoeing,Archery,12
+Canoeing,Volleyball,14
+Canoeing,Tennis,8
+Canoeing,Skeleton,1
+Canoeing,Baseball,5
+Canoeing,Beach Volleyball,6
+Canoeing,Rhythmic Gymnastics,9
+Canoeing,Trampolining,5
+Canoeing,Softball,4
+Canoeing,Figure Skating,13
+Canoeing,Table Tennis,8
+Canoeing,Nordic Combined,13
+Canoeing,Rugby Sevens,1
+Canoeing,Modern Pentathlon,19
+Canoeing,Polo,1
+Canoeing,Alpinism,1
+Canoeing,Triathlon,5
+Canoeing,Freestyle Skiing,1
+Canoeing,Aeronautics,1
+Canoeing,Ski Jumping,13
+Canoeing,Synchronized Swimming,9
+Tennis,Jeu De Paume,1
+Tennis,Short Track Speed Skating,1
+Tennis,Golf,3
+Tennis,Roque,1
+Tennis,Archery,12
+Tennis,Basque Pelota,1
+Tennis,Volleyball,8
+Tennis,Military Ski Patrol,1
+Tennis,Motorboating,1
+Tennis,Baseball,5
+Tennis,Croquet,1
+Tennis,Lacrosse,2
+Tennis,Racquets,1
+Tennis,Beach Volleyball,6
+Tennis,Rhythmic Gymnastics,8
+Tennis,Trampolining,5
+Tennis,Softball,4
+Tennis,Figure Skating,5
+Tennis,Rugby,4
+Tennis,Table Tennis,8
+Tennis,Nordic Combined,3
+Tennis,Rugby Sevens,1
+Tennis,Polo,4
+Tennis,Modern Pentathlon,11
+Tennis,Alpinism,1
+Tennis,Triathlon,5
+Tennis,Freestyle Skiing,1
+Tennis,Ski Jumping,3
+Tennis,Curling,1
+Tennis,Cricket,1
+Tennis,Synchronized Swimming,8
+Modern Pentathlon,Short Track Speed Skating,1
+Modern Pentathlon,Golf,1
+Modern Pentathlon,Archery,13
+Modern Pentathlon,Volleyball,14
+Modern Pentathlon,Military Ski Patrol,1
+Modern Pentathlon,Skeleton,2
+Modern Pentathlon,Baseball,5
+Modern Pentathlon,Beach Volleyball,6
+Modern Pentathlon,Rhythmic Gymnastics,9
+Modern Pentathlon,Trampolining,5
+Modern Pentathlon,Softball,4
+Modern Pentathlon,Figure Skating,17
+Modern Pentathlon,Rugby,2
+Modern Pentathlon,Table Tennis,8
+Modern Pentathlon,Nordic Combined,16
+Modern Pentathlon,Rugby Sevens,1
+Modern Pentathlon,Polo,3
+Modern Pentathlon,Alpinism,3
+Modern Pentathlon,Triathlon,5
+Modern Pentathlon,Freestyle Skiing,1
+Modern Pentathlon,Aeronautics,1
+Modern Pentathlon,Ski Jumping,16
+Modern Pentathlon,Curling,1
+Modern Pentathlon,Synchronized Swimming,9
+Figure Skating,Jeu De Paume,1
+Figure Skating,Short Track Speed Skating,7
+Figure Skating,Archery,8
+Figure Skating,Volleyball,8
+Figure Skating,Military Ski Patrol,1
+Figure Skating,Motorboating,1
+Figure Skating,Skeleton,6
+Figure Skating,Baseball,1
+Figure Skating,Lacrosse,1
+Figure Skating,Racquets,1
+Figure Skating,Rhythmic Gymnastics,3
+Figure Skating,Rugby,3
+Figure Skating,Table Tennis,2
+Figure Skating,Nordic Combined,22
+Figure Skating,Polo,4
+Figure Skating,Alpinism,3
+Figure Skating,Freestyle Skiing,7
+Figure Skating,Aeronautics,1
+Figure Skating,Ski Jumping,22
+Figure Skating,Curling,6
+Figure Skating,Snowboarding,5
+Figure Skating,Synchronized Swimming,3
+Golf,Roque,1
+Golf,Archery,3
+Golf,Basque Pelota,1
+Golf,Volleyball,1
+Golf,Croquet,1
+Golf,Lacrosse,1
+Golf,Beach Volleyball,1
+Golf,Rhythmic Gymnastics,1
+Golf,Trampolining,1
+Golf,Table Tennis,1
+Golf,Rugby,1
+Golf,Rugby Sevens,1
+Golf,Polo,1
+Golf,Triathlon,1
+Golf,Cricket,1
+Golf,Synchronized Swimming,1
+Softball,Archery,4
+Softball,Volleyball,4
+Softball,Baseball,4
+Softball,Beach Volleyball,4
+Softball,Rhythmic Gymnastics,4
+Softball,Trampolining,3
+Softball,Table Tennis,4
+Softball,Triathlon,3
+Softball,Synchronized Swimming,4
+Archery,Jeu De Paume,1
+Archery,Short Track Speed Skating,1
+Archery,Roque,1
+Archery,Basque Pelota,1
+Archery,Volleyball,12
+Archery,Motorboating,1
+Archery,Baseball,5
+Archery,Croquet,1
+Archery,Lacrosse,2
+Archery,Racquets,1
+Archery,Beach Volleyball,6
+Archery,Rhythmic Gymnastics,9
+Archery,Trampolining,5
+Archery,Table Tennis,8
+Archery,Rugby,3
+Archery,Nordic Combined,6
+Archery,Rugby Sevens,1
+Archery,Polo,3
+Archery,Triathlon,5
+Archery,Freestyle Skiing,1
+Archery,Ski Jumping,6
+Archery,Cricket,1
+Archery,Synchronized Swimming,9
+Volleyball,Short Track Speed Skating,1
+Volleyball,Baseball,5
+Volleyball,Beach Volleyball,6
+Volleyball,Rhythmic Gymnastics,9
+Volleyball,Trampolining,5
+Volleyball,Table Tennis,8
+Volleyball,Nordic Combined,8
+Volleyball,Rugby Sevens,1
+Volleyball,Triathlon,5
+Volleyball,Freestyle Skiing,1
+Volleyball,Ski Jumping,8
+Volleyball,Synchronized Swimming,9
+Synchronized Swimming,Short Track Speed Skating,1
+Synchronized Swimming,Baseball,5
+Synchronized Swimming,Beach Volleyball,6
+Synchronized Swimming,Rhythmic Gymnastics,9
+Synchronized Swimming,Trampolining,5
+Synchronized Swimming,Table Tennis,8
+Synchronized Swimming,Nordic Combined,3
+Synchronized Swimming,Rugby Sevens,1
+Synchronized Swimming,Triathlon,5
+Synchronized Swimming,Freestyle Skiing,1
+Synchronized Swimming,Ski Jumping,3
+Table Tennis,Short Track Speed Skating,1
+Table Tennis,Baseball,5
+Table Tennis,Beach Volleyball,6
+Table Tennis,Rhythmic Gymnastics,8
+Table Tennis,Trampolining,5
+Table Tennis,Nordic Combined,2
+Table Tennis,Rugby Sevens,1
+Table Tennis,Triathlon,5
+Table Tennis,Freestyle Skiing,1
+Table Tennis,Ski Jumping,2
+Nordic Combined,Short Track Speed Skating,7
+Nordic Combined,Military Ski Patrol,1
+Nordic Combined,Skeleton,6
+Nordic Combined,Baseball,1
+Nordic Combined,Rhythmic Gymnastics,3
+Nordic Combined,Rugby,1
+Nordic Combined,Polo,2
+Nordic Combined,Alpinism,3
+Nordic Combined,Freestyle Skiing,7
+Nordic Combined,Aeronautics,1
+Nordic Combined,Ski Jumping,22
+Nordic Combined,Curling,6
+Nordic Combined,Snowboarding,5
+Baseball,Short Track Speed Skating,1
+Baseball,Beach Volleyball,4
+Baseball,Rhythmic Gymnastics,5
+Baseball,Trampolining,3
+Baseball,Triathlon,3
+Baseball,Freestyle Skiing,1
+Baseball,Ski Jumping,1
+Rhythmic Gymnastics,Short Track Speed Skating,1
+Rhythmic Gymnastics,Beach Volleyball,6
+Rhythmic Gymnastics,Trampolining,5
+Rhythmic Gymnastics,Rugby Sevens,1
+Rhythmic Gymnastics,Triathlon,5
+Rhythmic Gymnastics,Freestyle Skiing,1
+Rhythmic Gymnastics,Ski Jumping,3
+Freestyle Skiing,Short Track Speed Skating,7
+Freestyle Skiing,Skeleton,4
+Freestyle Skiing,Ski Jumping,7
+Freestyle Skiing,Curling,5
+Freestyle Skiing,Snowboarding,5
+Rugby Sevens,Beach Volleyball,1
+Rugby Sevens,Trampolining,1
+Rugby Sevens,Triathlon,1
+Trampolining,Beach Volleyball,5
+Trampolining,Triathlon,5
+Beach Volleyball,Triathlon,5
+Ski Jumping,Short Track Speed Skating,7
+Ski Jumping,Military Ski Patrol,1
+Ski Jumping,Skeleton,6
+Ski Jumping,Rugby,1
+Ski Jumping,Polo,2
+Ski Jumping,Alpinism,3
+Ski Jumping,Aeronautics,1
+Ski Jumping,Curling,6
+Ski Jumping,Snowboarding,5
+Curling,Short Track Speed Skating,5
+Curling,Military Ski Patrol,1
+Curling,Skeleton,4
+Curling,Rugby,1
+Curling,Polo,1
+Curling,Alpinism,1
+Curling,Snowboarding,5
+Snowboarding,Short Track Speed Skating,5
+Snowboarding,Skeleton,4
+Rugby,Jeu De Paume,1
+Rugby,Basque Pelota,1
+Rugby,Motorboating,1
+Rugby,Military Ski Patrol,1
+Rugby,Croquet,1
+Rugby,Lacrosse,1
+Rugby,Racquets,1
+Rugby,Polo,4
+Rugby,Alpinism,1
+Rugby,Cricket,1
+Short Track Speed Skating,Skeleton,4
+Lacrosse,Jeu De Paume,1
+Lacrosse,Roque,1
+Lacrosse,Polo,1
+Lacrosse,Motorboating,1
+Lacrosse,Racquets,1
+Polo,Jeu De Paume,1
+Polo,Basque Pelota,1
+Polo,Motorboating,1
+Polo,Military Ski Patrol,1
+Polo,Croquet,1
+Polo,Racquets,1
+Polo,Alpinism,2
+Polo,Aeronautics,1
+Polo,Cricket,1
+Cricket,Basque Pelota,1
+Cricket,Croquet,1
+Racquets,Jeu De Paume,1
+Racquets,Motorboating,1
+Motorboating,Jeu De Paume,1
+Military Ski Patrol,Alpinism,1
+Croquet,Basque Pelota,1
+Alpinism,Aeronautics,1
